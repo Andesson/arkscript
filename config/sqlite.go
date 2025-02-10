@@ -7,14 +7,14 @@ import (
 )
 
 func InitializeSQLite() (*sql.DB, error) {
-	db, err := sql.Open("sqlite", "database/dados.db")
+	db, err := sql.Open("sqlite", "dados.db")
 	if err != nil {
 		return nil, err
 	}
 	_, err = db.Exec(`
 		CREATE TABLE IF NOT EXISTS itens (
 			id INTEGER PRIMARY KEY AUTOINCREMENT,
-			item TEXT NOT NULL,
+			item TEXT UNIQUE NOT NULL,
 			bpitem TEXT NOT NULL,
 			coinsItem TEXT,
 			coinsItemBP TEXT,
@@ -24,7 +24,7 @@ func InitializeSQLite() (*sql.DB, error) {
 	
 		CREATE TABLE IF NOT EXISTS dinos (
 			id INTEGER PRIMARY KEY AUTOINCREMENT,
-			dino TEXT NOT NULL,
+			dino TEXT UNIQUE NOT NULL,
 			bp TEXT NOT NULL,
 			coins TEXT,
 			desconto TEXT,
@@ -33,7 +33,7 @@ func InitializeSQLite() (*sql.DB, error) {
 	
 		CREATE TABLE IF NOT EXISTS chibis (
 			id INTEGER PRIMARY KEY AUTOINCREMENT,
-			chibi TEXT NOT NULL,
+			chibi TEXT UNIQUE NOT NULL,
 			bpchibi TEXT NOT NULL
 		);
 		`)

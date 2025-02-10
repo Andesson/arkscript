@@ -1,6 +1,6 @@
 package handler
 
-const JsonPath = "./data/"
+const JsonPath = "./json/"
 
 type Item struct {
 	Item                string `json:"item"`

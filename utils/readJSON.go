@@ -2,21 +2,19 @@ package utils
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"errors"
 	"os"
 )
 
-func ReadJSON(filename string, data interface{}) error {
+func ReadJSON(filename string, v interface{}) error {
+	if _, err := os.Stat(filename); errors.Is(err, os.ErrNotExist) {
+		return errors.New("o arquivo não existe: " + filename)
+	}
 	file, err := os.Open(filename)
 	if err != nil {
 		return err
 	}
 	defer file.Close()
-
-	bytes, err := ioutil.ReadAll(file)
-	if err != nil {
-		return err
-	}
-
-	return json.Unmarshal(bytes, data)
+	decoder := json.NewDecoder(file)
+	return decoder.Decode(v)
 }

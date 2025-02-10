@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/Andesson/arkscript/config"
-	"github.com/Andesson/arkscript/router"
+	router "github.com/Andesson/arkscript/routes"
 )
 
 func main() {
