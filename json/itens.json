@@ -1,0 +1,272 @@
+    [
+	{
+	"item": "Motosserra",
+	"bpitem": "Blueprint'/Game/ScorchedEarth/WeaponChainsaw/PrimalItem_ChainSaw.PrimalItem_ChainSaw'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Mining Drill",
+	"bpitem": "Blueprint'/Game/Genesis/Weapons/MiningDrill/PrimalItem_WeaponMiningDrill.PrimalItem_WeaponMiningDrill'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Vara de Pesca",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFishingRod.PrimalItem_WeaponFishingRod'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Picareta de Escalada",
+	"bpitem": "Blueprint'/Game/Aberration/CoreBlueprints/Weapons/PrimalItem_WeaponClimbPick.PrimalItem_WeaponClimbPick'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Picareta de Metal",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Machado de Metal",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Foice",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Arco",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Arco Composto",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Besta",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Pistola",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Pique",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPike.PrimalItem_WeaponPike'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Chicote",
+	"bpitem": "Blueprint'/Game/ScorchedEarth/WeaponWhip/PrimalItem_WeaponWhip.PrimalItem_WeaponWhip'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Espada",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Arbalete",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Pump Action",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Rifle de Cano Longo",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Rifle Sniper",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Rifle Assalto",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Lança Chamas",
+	"bpitem": "Blueprint'/Game/ScorchedEarth/WeaponFlamethrower/PrimalItem_WeapFlamethrower.PrimalItem_WeapFlamethrower'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Lança Míssil",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Escudo Tatico",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_TransparentRiotShield.PrimalItemArmor_TransparentRiotShield'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Escudo de Metal",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_MetalShield.PrimalItemArmor_MetalShield'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemDesconto": "XXX",
+	"coinsItemBPDesconto": "XXX"
+	},
+	{
+	"item": "Cantil Tek",
+	"bpitem": "Blueprint'/Game/Genesis2/CoreBlueprints/Items/PrimalItemConsumable_TekCanteenCraftable'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Rifle Tek",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Espada Tek",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTekSword.PrimalItem_WeaponTekSword'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Escudo Tek",
+	"bpitem": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_ShieldTek.PrimalItemArmor_ShieldTek'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Sniper Tek",
+	"bpitem": "Blueprint'/Game/Aberration/WeaponTekSniper/PrimalItem_TekSniper.PrimalItem_TekSniper'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Lança Míssil Tek",
+	"bpitem": "Blueprint'/Game/Genesis/Weapons/CruiseMissile/PrimalItem_WeaponTekCruiseMissile.PrimalItem_WeaponTekCruiseMissile'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Garra Tek",
+	"bpitem": "Blueprint'/Game/Genesis/Weapons/TekHandBlades/PrimalItem_WeaponTekClaws.PrimalItem_WeaponTekClaws'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Lança Granada Tek",
+	"bpitem": "Blueprint'/Game/Genesis/Weapons/TekGrenadeLauncher/PrimalItem_WeaponTekGrenadeLauncher.PrimalItem_WeaponTekGrenadeLauncher'",
+	"coinsItem": "XXX",
+	"coinsItemBP": "XXX"
+	},
+	{
+	"item": "Canhão de Ombro Tek",
+	"bpitem": "Blueprint'/Game/Genesis/Items/Armor/PrimalItemArmor_ShoulderCannon.PrimalItemArmor_ShoulderCannon'",
+	"coinsItemTek": "XXX",
+	"coinsItemBPTek": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Pistola Tek",
+	"bpitem": "Blueprint'/Game/Genesis2/Weapons/TekPistol/PrimalItem_WeaponTekPistol.PrimalItem_WeaponTekPistol'",
+	"coinsItemTek": "XXX",
+	"coinsItemTekBP": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	},
+	{
+	"item": "Arco Tek",
+	"bpitem": "Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow'",
+	"coinsItemTek": "XXX",
+	"coinsItemTekBP": "XXX",
+	"coinsItemTekDesconto": "XXX",
+	"coinsItemBPTekDesconto": "XXX"
+	}
+    ]

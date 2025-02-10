@@ -1,0 +1,1084 @@
+[
+	{
+		"dino": "Abelha",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "3"
+	},
+	{
+		"dino": "Achatina",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Achatina Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'",
+		"coins": "-1100",
+		"desconto": "-825"
+	},
+	{
+		"dino": "Astrodelphis",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/SpaceDolphin/SpaceDolphin_Character_BP.SpaceDolphin_Character_BP'",
+		"coins": "-20000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Anquilossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850",
+		"tokens": "6"
+	},
+	{
+		"dino": "Anquilossauro Aberrante",
+		"bp": "BBlueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "6"
+	},
+	{
+		"dino": "Anquilossauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Ankylosaurus/Volcano_Ankylo_Character_BP.Volcano_Ankylo_Character_BP'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "6"
+	},
+	{
+		"dino": "Argentavis",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850",
+		"tokens": "5"
+	},
+	{
+		"dino": "Argentavis-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Argentavis/Snow_Argent_Character_BP.Snow_Argent_Character_BP'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "5"
+	},
+	{
+		"dino": "Arthropluera",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "6"
+	},
+	{
+		"dino": "Arthropluera Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant'",
+		"coins": "-22000",
+		"desconto": "-16500",
+		"tokens": "6"
+	},
+	{
+		"dino": "Angler",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Angler Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'",
+		"coins": "-1100",
+		"desconto": "-825"
+	},
+	{
+		"dino": "Alossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP'",
+		"coins": "-12000",
+		"desconto": "-9000",
+		"tokens": "3"
+	},
+	{
+		"dino": "Alossauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Allosaurus/Volcano_Allo_Character_BP.Volcano_Allo_Character_BP'",
+		"coins": "-13200",
+		"desconto": "-9900",
+		"tokens": "3"
+	},
+	{
+		"dino": "Alossauro-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Allo_Character_BP_Rockwell.Allo_Character_BP_Rockwell'",
+		"coins": "-14520",
+		"tokens": "4"
+	},
+	{
+		"dino": "Amargasaurus",
+        "bp": "Blueprint'/Game/LostIsland/Dinos/Amargasaurus/Amargasaurus_Character_BP.Amargasaurus_Character_BP'",
+        "coins": "-25000",
+        "desconto": "-18750",
+        "tokens": "4"
+	},
+	{
+		"dino": "Bulbdog",
+		"bp": "Blueprint'/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP'",
+		"coins": "XXX"
+	},
+	{
+		"dino": "Beelzebufo",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
+		"coins": "-2000",
+		"desconto": "-1530"
+	},
+	{
+		"dino": "Beelzebufo Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant'",
+		"coins": "-2200",
+		"desconto": "-1650"
+	},
+	{
+		"dino": "Basilisco",
+		"bp": "Blueprint'/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Basilossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "2"
+	},
+	{
+		"dino": "Basilossauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'",
+		"coins": "-22000",
+		"desconto": "-16500",
+		"tokens": "2"
+	},
+	{
+		"dino": "Barionix",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP'",
+		"coins": "-15000",
+		"desconto": "-11250",
+		"tokens": "4"
+	},
+	{
+		"dino": "Barionix Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant'",
+		"coins": "-16500",
+		"desconto": "-12375",
+		"tokens": "4"
+	},
+	{
+		"dino": "Bloodstalker",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP'",
+		"coins": "-25000",
+		"desconto": "-18750",
+		"tokens": "4"
+	},
+	{
+		"dino": "Bronto",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Bronto-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Sauropod_Character_BP_Rockwell.Sauropod_Character_BP_Rockwell'",
+		"coins": "-24000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Bear (Urso)",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Bear Polar",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_Polar.Direbear_Character_Polar'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Bear Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "2"
+	},
+	{
+		"dino": "Bear-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Direbear_Character_BP_Rockwell.Direbear_Character_BP_Rockwell'",
+		"coins": "-4560",
+		"tokens": "3"
+	},
+	{
+		"dino": "Carbonemis",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Carbonemis Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "4"
+	},
+	{
+		"dino": "Carbonemis-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Turtle_Character_BP_Rockwell.Turtle_Character_BP_Rockwell'",
+		"coins": "-4560",
+		"tokens": "5"
+	},
+	{
+		"dino": "Carnotauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850",
+		"tokens": "4"
+	},
+	{
+		"dino": "Carnotauro Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "4"
+	},
+	{
+		"dino": "Carnotauro-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Carno_Character_BP_Rockwell.Carno_Character_BP_Rockwell'",
+		"coins": "-4560",
+		"tokens": "5"
+	},
+	{
+		"dino": "Castor",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850",
+		"tokens": "N/A"
+	},
+	{
+		"dino": "Daeodon",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle'",
+		"ascbp": "-40000",
+		"ascbpdesc": "-30000",
+		"asc": "-8000",
+		"ascdesc": "-6000",
+		"coins": "-9500",
+		"desconto": "-7125",
+		"tokens": "3"
+	},
+	{
+		"dino": "Daeodon-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Daeodon_Character_BP_Eden.Daeodon_Character_BP_Eden'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle'",
+		"ascbp": "-40000",
+		"ascbpdesc": "-30000",
+		"asc": "-8000",
+		"ascdesc": "-6000",
+		"coins": "-11400",
+		"tokens": "4"
+	},
+	{
+		"dino": "Deinonico",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP'",
+		"bpsela": "Blueprint'/Game/Valguero/Dinos/Deinonychus/PrimalItemArmor_DeinonychusSaddle.PrimalItemArmor_DeinonychusSaddle'",
+		"ascbp": "-40000",
+		"ascbpdesc": "-30000",
+		"asc": "-8000",
+		"ascdesc": "-6000",
+		"coins": "-12000",
+		"desconto": "-9000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Doedicurus (Tatu)",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Doedicurus Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "4"
+	},
+	{
+		"dino": "Dunkleosteus",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Dinopithecus",
+        "bp": "Blueprint'/Game/LostIsland/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP'",
+        "coins": "-9000",
+        "desconto": "-6750",
+        "tokens": "6"
+	},
+	{
+		"dino": "Dunkleosteus-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Dunkleosteus/Ocean_Dunkle_Character_BP.Ocean_Dunkle_Character_BP'",
+		"coins": "-1100",
+		"desconto": "-850"
+	},
+	{
+		"dino": "Estegossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP'",
+		"coins": "-15800",
+		"desconto": "-11850",
+		"tokens": "6"
+	},
+	{
+		"dino": "Estegossauro TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "6"
+	},
+	{
+		"dino": "Estegossauro Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP_Aberrant.Stego_Character_BP_Aberrant'",
+		"coins": "-17380",
+		"desconto": "-13035",
+		"tokens": "6"
+	},
+	{
+		"dino": "Espinossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP'",
+		"coins": "-15500",
+		"desconto": "-11625",
+		"tokens": "4"
+	},
+	{
+		"dino": "Espinossauro Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant'",
+		"coins": "-17050",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{
+		"dino": "Espinossauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Spino/Bog_Spino_Character_BP.Bog_Spino_Character_BP'",
+		"coins": "-17050",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{
+		"dino": "Enforcer",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "3"
+	},
+	{
+		"dino": "Ferox",
+		"bp": " Blueprint'/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Glowtail",
+		"bp": "Blueprint'/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP'",
+		"coins": "XXXX"
+	},
+	{
+		"dino": "Gigantopithecus (Yeti)",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Gigantopithecus Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "3"
+	},
+	{
+		"dino": "Gigantossauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle'",
+		"ascbp": "-120000",
+		"ascbpdesc": "-90000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "3"
+	},
+	{
+		"dino": "Gigantossauro-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Gigant_Character_BP_Rockwell.Gigant_Character_BP_Rockwell'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle'",
+		"ascbp": "-120000",
+		"ascbpdesc": "-90000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"coins": "-36000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Grifo",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "3"
+	},
+	{
+		"dino": "Gacha",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "5"
+	},
+	{
+		"dino": "Gasbags",
+		"bp": "Blueprint'/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP'",
+		"coins": "-10000",
+		"desconto": "-7500",
+		"tokens": "4"
+	},
+	{
+		"dino": "Gasbags-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/GasBags_Character_BP_Eden.GasBags_Character_BP_Eden'",
+		"coins": "-12000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Lobo Terrivel",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Lobo Terrivel-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Direwolf_Character_BP_Eden.Direwolf_Character_BP_Eden'",
+		"coins": "-4560",
+		"tokens": "4"
+	},
+	{
+		"dino": "Noglin",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BrainSlug/BrainSlug_Character_BP.BrainSlug_Character_BP'",
+		"coins": "-20000",
+		"desconto": "N/A",
+		"tokens": "6"
+	},
+	{
+		"dino": "Magmasauro",
+		"bp": "Blueprint'/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP'",
+		"bpsela": "Blueprint'/Game/Genesis/Dinos/Cherufe/PrimalItemArmor_CherufeSaddle.PrimalItemArmor_CherufeSaddle'",
+		"normalbp": "-10000",
+		"normalbpdesc": "-7500",
+		"normal": "-3000",
+		"normaldesc": "-2250",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "3"
+	},
+	{
+		"dino": "Managarmr",
+		"bp": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+		"bpsela": "Blueprint'/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_IceJumperSaddle.PrimalItemArmor_IceJumperSaddle'",
+		"normalbp": "-3000",
+		"normalbpdesc": "-2250",
+		"normal": "-100",
+		"normaldesc": "-75",
+		"ascbp": "-80000",
+		"ascbpdesc": "-60000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"coins": "-10500",
+		"desconto": "-7875",
+		"tokens": "6"
+	},
+	{
+		"dino": "Mantis",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "3"
+	},
+	{
+		"dino": "Mosasauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Platform.PrimalItemArmor_MosaSaddle_Platform'",
+		"bpselatek": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Tek.PrimalItemArmor_MosaSaddle_Tek'",
+		"ascbp": "-80000",
+		"ascbpdesc": "-60000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Mosasauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Mosasaurus/Ocean_Mosa_Character_BP.Ocean_Mosa_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Platform.PrimalItemArmor_MosaSaddle_Platform'",
+		"bpselatek": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Tek.PrimalItemArmor_MosaSaddle_Tek'",
+		"ascbp": "-80000",
+		"ascbpdesc": "-60000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-22000",
+		"desconto": "-16500",
+		"tokens": "4"
+	},
+	{
+		"dino": "Moschops",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Moschops Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant'",
+		"coins": "-1100",
+		"desconto": "-850"
+	},
+	{
+		"dino": "Mek lvl 51",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP'",
+		"coins": "-50000",
+		"desconto": "-37500",
+		"tokens": "4"
+	},
+	{
+		"dino": "Megatherio",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle'",
+		"ascbp": "-64000",
+		"ascbpdesc": "-48000",
+		"asc": "-8000",
+		"ascdesc": "-6000",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "2"
+	},
+	{
+		"dino": "Megatherio-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/Summoner/SummonedDinos/Megatherium_Character_BP_Eden_Summoned.Megatherium_Character_BP_Eden_Summoned'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle'",
+		"ascbp": "-64000",
+		"ascbpdesc": "-48000",
+		"asc": "-8000",
+		"ascdesc": "-6000",
+		"coins": "-5760",
+		"tokens": "3"
+	},
+	{
+		"dino": "Megachelon",
+		"bp": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "3"
+	},
+	{
+		"dino": "Megalosauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP'",
+		"coins": "-9000",
+		"desconto": "-6750",
+		"tokens": "3"
+	},
+	{
+		"dino": "Megalosauro Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant'",
+		"coins": "-9900",
+		"desconto": "-7650",
+		"tokens": "3"
+	},
+	{
+		"dino": "Megalodon",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP'",
+		"coins": "-10500",
+		"desconto": "-7875",
+		"tokens": "3"
+	},
+	{
+		"dino": "Megalodon-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Megalodon/Ocean_Megalodon_Character_BP.Ocean_Megalodon_Character_BP'",
+		"coins": "-11550",
+		"desconto": "-8925",
+		"tokens": "3"
+	},
+	{
+		"dino": "Maewing",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP'",
+		"coins": "-5000",
+		"tokens": "6"
+	},
+	{
+		"dino": "Fenix",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "4"
+	},
+	{
+		"dino": "Pteranodon",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Ovis (Ovelha)",
+        "bp": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
+        "coins": "-3800",
+        "desconto": "-2850"
+	},
+	{
+		"dino": "Plesiosauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PlesiSaddle_Platform.PrimalItemArmor_PlesiSaddle_Platform'",
+		"ascbp": "-70000",
+		"ascbpdesc": "-52500",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"coins": "-9500",
+		"desconto": "-7125",
+		"tokens": "5"
+	},
+	{
+		"dino": "Paraceratherio",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+		"coins": "-9500",
+		"desconto": "-7125",
+		"tokens": "3"
+	},
+	{
+		"dino": "Paraceratherio Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant",
+		"coins": "-10450",
+		"desconto": "-8075",
+		"tokens": "3"
+	},
+	{
+		"dino": "Paraceratherio-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/BogParaceratherium/Bog_Paracer_Character_BP.Bog_Paracer_Character_BP'",
+		"coins": "-10450",
+		"desconto": "-8075",
+		"tokens": "3"
+	},
+	{
+		"dino": "Parasauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP'",
+		"coins": "-1000",
+		"desconto": "-750"
+	},
+	{
+		"dino": "Parasauro TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP'",
+		"coins": "-1200",
+		"desconto": "-900"
+	},
+	{
+		"dino": "Parasauro Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant'",
+		"coins": "-1100",
+		"desconto": "-850"
+	},
+	{
+		"dino": "Parasauro-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/BogPara/Bog_Para_Character_BP.Bog_Para_Character_BP'",
+		"coins": "-1100",
+		"desconto": "-850"
+	},
+	{
+		"dino": "Parasauro-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Para_Character_BP_Eden.Para_Character_BP_Eden'",
+		"coins": "-1200"
+	},
+	{
+		"dino": "Quetzal",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+		"coins": "-10500",
+		"desconto": "-7875",
+		"tokens": "6"
+	},
+	{
+		"dino": "Quetzal TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP'",
+		"coins": "-12600",
+		"desconto": "-9450",
+		"tokens": "6"
+	},
+	{
+		"dino": "Quetzal-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Quetz_Character_BP_Rockwell.Quetz_Character_BP_Rockwell'",
+		"coins": "-15000",
+		"tokens": "6"
+	},
+	{
+		"dino": "Rock Drake",
+		"bp": "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'",
+		"bpselatek": "Blueprint'/Game/Aberration/Dinos/RockDrake/PrimalItemArmor_RockDrakeSaddle_Tek.PrimalItemArmor_RockDrakeSaddle_Tek'",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Rock Elemental (Golem)",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "1"
+	},
+	{
+		"dino": "Rock Elemental-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Lava_Golem/Volcano_Golem_Character_BP.Volcano_Golem_Character_BP'",
+		"coins": "-22000",
+		"desconto": "-16500",
+		"tokens": "1"
+	},
+	{
+		"dino": "Rex",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'",
+		"bpselatek": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek'",
+		"ascbp": "-100000",
+		"ascbpdesc": "-75000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Rex TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'",
+		"bpselatek": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek'",
+		"ascbp": "-100000",
+		"ascbpdesc": "-75000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "5"
+	},
+	{
+		"dino": "Rex-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Rex/Volcano_Rex_Character_BP.Volcano_Rex_Character_BP'",
+		"bpsela": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'",
+		"bpselatek": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek'",
+		"ascbp": "-100000",
+		"ascbpdesc": "-75000",
+		"asc": "-15000",
+		"ascdesc": "-11250",
+		"tek": "-40000",
+		"tekdesc": "-30000",
+		"coins": "-22000",
+		"desconto": "-15000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Rhino",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Rhino-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_WoollyRhino/Snow_Rhino_Character_BP.Snow_Rhino_Character_BP'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "4"
+	},
+	{
+		"dino": "Reaper",
+		"bp": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed'",
+		"coins": "-35000",
+		"desconto": "-26250",
+		"tokens": "2"
+	},
+	{
+		"dino": "Reaper-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Xenomorph_Character_BP_Male_Tamed_Gen2.Xenomorph_Character_BP_Male_Tamed_Gen2'",
+		"coins": "-42000",
+		"tokens": "3"
+	},
+	{
+		"dino": "Raptor",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP'",
+		"coins": "-10000",
+		"desconto": "7500",
+		"tokens": "5"
+	},
+	{
+		"dino": "Raptor TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP'",
+		"coins": "-12000",
+		"desconto": "-9000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Raptor Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant'",
+		"coins": "-11000",
+		"desconto": "-8500",
+		"tokens": "5"
+	},
+	{
+		"dino": "Raptor-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Raptor/Bog_Raptor_Character_BP.Bog_Raptor_Character_BP'",
+		"coins": "-11000",
+		"desconto": "-8500",
+		"tokens": "5"
+	},
+	{
+		"dino": "Roll Rat (Rato)",
+		"bp": "Blueprint'/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP'",
+		"coins": "-9800",
+		"desconto": "-7350",
+		"tokens": "3"
+	},
+	{
+		"dino": "Snow Owl (Coruja)",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'",
+		"coins": "-9800",
+		"desconto": "-7350",
+		"tokens": "4"
+	},
+	{
+		"dino": "Snow Owl-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Owl_Character_BP_Eden.Owl_Character_BP_Eden'",
+		"coins": "-11760",
+		"tokens": "5"
+	},
+	{
+		"dino": "Shadowmane",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP'",
+		"coins": "-30000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Scout (Batedor)",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP'",
+		"coins": "-4000",
+		"desconto": "-3000"
+	},
+	{
+		"dino": "Sinomacrops",
+        "bp": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'",
+        "coins": "-3000",
+        "tokens": "5"
+	},
+	{
+		"dino": "Sabertooth (Dente de Sabre)",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'",
+		"coins": "-3800",
+		"desconto": "-2850"
+	},
+	{
+		"dino": "Sabertooth-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Saber/Snow_Saber_Character_BP.Snow_Saber_Character_BP'",
+		"coins": "-4180",
+		"desconto": "-3135",
+		"tokens": "3"
+	},
+	{
+		"dino": "Thylacoleo",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP'",
+		"coins": "-4000",
+		"desconto": "-3000",
+		"tokens": "3"
+	},
+	{
+		"dino": "Thylacoleo-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Thylacoleo_Character_BP_Eden.Thylacoleo_Character_BP_Eden'",
+		"coins": "-4800",
+		"tokens": "4"
+	},
+	{
+		"dino": "Tusoteuthis",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "4"
+	},
+	{
+		"dino": "Triceratops (Trike)",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'",
+		"coins": "-5800",
+		"desconto": "-4350",
+		"tokens": "5"
+	},
+	{
+		"dino": "Triceratops Aberrante",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant'",
+		"coins": "-6380",
+		"desconto": "-4930",
+		"tokens": "5"
+	},
+	{
+		"dino": "Triceratops TEK",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP'",
+		"coins": "-12000",
+		"desconto": "-9000",
+		"tokens": "5"
+	},
+	{
+		"dino": "Triceratops-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Volcano_Trike/Volcano_Trike_Character_BP.Volcano_Trike_Character_BP'",
+		"coins": "-6380",
+		"desconto": "-4930",
+		"tokens": "5"
+	},
+	{
+		"dino": "Therizinosauro",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "4"
+	},
+	{
+		"dino": "Tapejara",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "5"
+	},
+	{
+		"dino": "Tropeognathus",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP'",
+		"coins": "-25000",
+		"desconto": "-18750",
+		"tokens": "5"
+	},
+	{
+		"dino": "Tapejara-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Tapejara/Bog_Tapejara_Character_BP.Bog_Tapejara_Character_BP'",
+		"coins": "-5280",
+		"desconto": "-3135",
+		"tokens": "5"
+	},
+	{
+		"dino": "Unicornio",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
+		"coins": "-4800",
+		"desconto": "-3600",
+		"tokens": "N/A"
+	},
+	{
+		"dino": "Voidwyrm",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/TekWyvern/TekWyvern_Character_BP.TekWyvern_Character_BP'",
+		"coins": "-45000",
+		"desconto": "N/A",
+		"tokens": "6"
+	},
+	{
+		"dino": "Velonasauro",
+		"bp": "Blueprint'/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP'",
+		"coins": "-30000",
+		"desconto": "-22500",
+		"tokens": "6"
+	},
+	{
+		"dino": "Velonasauro-R",
+		"bp": "Blueprint'/Game/Genesis2/Dinos/BiomeVariants/Spindles_Character_BP_Rockwell.Spindles_Character_BP_Rockwell'",
+		"coins": "-36000",
+		"tokens": "6"
+	},
+	{
+		"dino": "Wyvern Fire",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Lightning",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'",
+		"coins": "-20000",
+		"desconto": "XXX",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Poison",
+		"bp": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Ice",
+		"bp": "Blueprint'/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Crystal Blood",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Blood.CrystalWyvern_Character_BP_Blood'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Crystal Ember",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_Ember.CrystalWyvern_Character_BP_Ember'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Wyvern Crystal Tropical",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS'",
+		"coins": "-20000",
+		"desconto": "-15000",
+		"tokens": "4"
+	},
+	{
+		"dino": "Yutirano",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP'",
+		"coins": "-15500",
+		"desconto": "-11625",
+		"tokens": "4"
+	},
+	{
+		"dino": "Yutirano-X",
+		"bp": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Yutyrannus/Snow_Yutyrannus_Character_BP.Snow_Yutyrannus_Character_BP'",
+		"coins": "-17050",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{
+		"dino": "Carcharodontosaurus",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP'",
+		"coins": "-40000",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{
+		"dino": "Desmodus",
+		"bp": "Blueprint'/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP'",
+		"coins": "-25000",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{
+		"dino": "Fjordhawk",
+		"bp": "Blueprint'/Game/Fjordur/Dinos/Fjordhawk/Fjordhawk_Character_BP.Fjordhawk_Character_BP'",
+		"coins": "-1500",
+		"desconto": "-13175",
+		"tokens": "4"
+	},
+	{"dino": "Rhyniognatha",
+		"bp": "Blueprint'/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP'",
+		"coins": "-45000",
+		"desconto": "-13175",
+		"tokens": "4"}
+	
+]

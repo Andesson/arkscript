@@ -1,0 +1,479 @@
+	[
+	{
+	"chibi": "Astrocetus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Astrocetus.PrimalItemSkin_ChibiDino_Astrocetus'"
+	},
+	{
+	"chibi": "Argentavis",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Argent.PrimalItemSkin_ChibiDino_Argent'"
+	},
+	{
+	"chibi": "Astrodelphis",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Astrodelphis.PrimalItemSkin_ChibiDino_Astrodelphis'"
+	},
+	{
+	"chibi": "Achatina",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Achatina.PrimalItemSkin_ChibiDino_Achatina'"
+	},
+	{
+	"chibi": "Allosaurus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Allosaurus.PrimalItemSkin_ChibiDino_Allosaurus'"
+	},
+	{
+	"chibi": "Ammonite",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Ammonite.PrimalItemSkin_ChibiDino_Ammonite'"
+	},
+	{
+	"chibi": "Ankylosaurus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Ankylosaurus.PrimalItemSkin_ChibiDino_Ankylosaurus'"
+	},
+	{
+	"chibi": "Broodmother",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_BroodMother.PrimalItemSkin_ChibiDino_BroodMother'"
+	},
+	{
+	"chibi": "Bloodstalker",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_BogSpider.PrimalItemSkin_ChibiDino_BogSpider'"
+	},
+	{
+	"chibi": "Basilisk",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Basilisk.PrimalItemSkin_ChibiDino_Basilisk'"
+	},
+	{
+	"chibi": "Brontosaurus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Bronto.PrimalItemSkin_ChibiDino_Bronto'"
+	},
+	{
+	"chibi": "Baryonys",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Baryonyx.PrimalItemSkin_ChibiDino_Baryonyx'"
+	},
+	{
+	"chibi": "Beelzebufo",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Beelzebufo.PrimalItemSkin_ChibiDino_Beelzebufo'"
+	},
+	{
+	"chibi": "Bulbdog",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Bulbdog.PrimalItemSkin_ChibiDino_Bulbdog'"
+	},
+	{
+	"chibi": "Bunny(Coelho)",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Bunny.PrimalItemSkin_ChibiDino_Bunny'"
+	},
+	{
+	"chibi": "Carbonemis",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Carbonemys.PrimalItemSkin_ChibiDino_Carbonemys'"
+	},
+	{
+	"chibi": "Castor",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Castroides.PrimalItemSkin_ChibiDino_Castroides'"
+	},
+	{
+	"chibi": "Cnidaria",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Cnidaria.PrimalItemSkin_ChibiDino_Cnidaria'"
+	},
+	{
+	"chibi": "Carnotauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Carnotaurus.PrimalItemSkin_ChibiDino_Carnotaurus'"
+	},
+	{
+	"chibi": "Crystal Wyvern",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_WyvernCrystal.PrimalItemSkin_ChibiDino_WyvernCrystal'"
+	},
+	{
+	"chibi": "DireWolf",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Direwolf.PrimalItemSkin_ChibiDino_Direwolf'"
+	},
+	{
+	"chibi": "Dodo",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Dodo.PrimalItemSkin_ChibiDino_Dodo'"
+	},
+	{
+	"chibi": "Daeodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Daeodon.PrimalItemSkin_ChibiDino_Daeodon'"
+	},
+	{
+	"chibi": "Dodô de Óculos",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_DodoDealWithIt.PrimalItemSkin_ChibiDino_DodoDealWithIt'"
+	},
+	{
+	"chibi": "DireBear",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Direbear.PrimalItemSkin_ChibiDino_Direbear'"
+	},
+	{
+	"chibi": "Doedicurus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Doedicurus.PrimalItemSkin_ChibiDino_Doedicurus'"
+	},
+	{
+	"chibi": "Dunkleosteus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Dunkleo.PrimalItemSkin_Chi"
+	},
+	{
+	"chibi": "Equus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Equus.PrimalItemSkin_ChibiDino_Equus'"
+	},
+	{
+	"chibi": "Enforcer",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Enforcer.PrimalItemSkin_ChibiDino_Enforcer'"
+	},
+	{
+	"chibi": "Ester Chick",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_EasterChick.PrimalItemSkin_ChibiDino_EasterChick'"
+	},
+	{
+	"chibi": "Ferox(Grande)",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Shapeshifter_Large.PrimalItemSkin_ChibiDino_Shapeshifter_Large'"
+	},
+	{
+	"chibi": "Ferox(pequeno)",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Shapeshifter_Small.PrimalItemSkin_ChibiDino_Shapeshifter_Small'"
+	},
+	{
+	"chibi": "Featherlight",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Featherlight.PrimalItemSkin_ChibiDino_Featherlight'"
+	},
+	{
+	"chibi": "Gacha Claus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_GachaClaus.PrimalItemSkin_ChibiDino_GachaClaus'"
+	},
+	{
+	"chibi": "Giganotosauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Gigant.PrimalItemSkin_ChibiDino_Gigant'"
+	},
+	{
+	"chibi": "Gigantopithecus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Gigantopithecus.PrimalItemSkin_ChibiDino_Gigantopithecus'"
+	},
+	{
+	"chibi": "Griffin",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Griffin.PrimalItemSkin_ChibiDino_Griffin'"
+	},
+	{
+	"chibi": "Gasbags",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Gasbag.PrimalItemSkin_ChibiDino_Gasbag'"
+	},
+	{
+	"chibi": "Glowtail",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Glowtail.PrimalItemSkin_ChibiDino_Glowtail'"
+	},
+	{
+	"chibi": "Iguanodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Iguanodon.PrimalItemSkin_ChibiDino_Iguanodon'"
+	},
+	{
+	"chibi": "Jerbunny (Jerboa de Orelhas)",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_JerboaBunny.PrimalItemSkin_ChibiDino_JerboaBunny'"
+	},
+	{
+	"chibi": "Karkinos",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Karkinos.PrimalItemSkin_ChibiDino_Karkinos'"
+	},
+	{
+	"chibi": "Kentrosaurus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Kentrosaurus.PrimalItemSkin_ChibiDino_Kentrosaurus'"
+	},
+	{
+	"chibi": "Lontra",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Otter.PrimalItemSkin_ChibiDino_Otter'"
+	},
+	{
+	"chibi": "Lontra de Chapéu de BB",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_OtterBonnet.PrimalItemSkin_ChibiDino_OtterBonnet'"
+	},
+	{
+	"chibi": "Lontra Chapeu de Palha",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_OtterStrawHat.PrimalItemSkin_ChibiDino_OtterStrawHat'"
+	},
+	{
+	"chibi": "Maewing",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Maewing.PrimalItemSkin_ChibiDino_Maewing'"
+	},
+	{
+	"chibi": "Magmasauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Cherufe.PrimalItemSkin_ChibiDino_Cherufe'"
+	},
+	{
+	"chibi": "Mammoth",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Mammoth.PrimalItemSkin_ChibiDino_Mammoth'"
+	},
+	{
+	"chibi": "Manta",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Manta.PrimalItemSkin_ChibiDino_Manta'"
+	},
+	{
+	"chibi": "Mantis",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Mantis.PrimalItemSkin_ChibiDino_Mantis'"
+	},
+	{
+	"chibi": "Megalania",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Megalania.PrimalItemSkin_ChibiDino_Megalania'"
+	},
+	{
+	"chibi": "Megaloceros",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Megaloceros.PrimalItemSkin_ChibiDino_Megaloceros'"
+	},
+	{
+	"chibi": "Megalodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Megalodon.PrimalItemSkin_ChibiDino_Megalodon'"
+	},
+	{
+	"chibi": "Megatério",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Megatherium.PrimalItemSkin_ChibiDino_Megatherium'"
+	},
+	{
+	"chibi": "Mesopithecus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Mesopithecus.PrimalItemSkin_ChibiDino_Mesopithecus'"
+	},
+	{
+	"chibi": "Moschops",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Moschops.PrimalItemSkin_ChibiDino_Moschops'"
+	},
+	{
+	"chibi": "Managarmr",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Managarmr.PrimalItemSkin_ChibiDino_Managarmr'"
+	},
+	{
+	"chibi": "Noglin",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_BrainSlug.PrimalItemSkin_ChibiDino_BrainSlug'"
+	},
+	{
+	"chibi": "Ovis (Ovelha)",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Sheep.PrimalItemSkin_ChibiDino_Sheep'"
+	},
+	{
+	"chibi": "Oviraptor",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Oviraptor.PrimalItemSkin_ChibiDino_Oviraptor'"
+	},
+	{
+	"chibi": "Phoenix",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Phoenix.PrimalItemSkin_ChibiDino_Phoenix'"
+	},
+	{
+	"chibi": "Pinguim",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_TophatKairuku.PrimalItemSkin_ChibiDino_TophatKairuku'"
+	},
+	{
+	"chibi": "Pair-o-Saurs",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Pairosaurs_VDay.PrimalItemSkin_ChibiDino_Pairosaurs_VDay'"
+	},
+	{
+	"chibi": "Plesiosauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Plesiosaur.PrimalItemSkin_ChibiDino_Plesiosaur'"
+	},
+	{
+	"chibi": "Procoptodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Procoptodon.PrimalItemSkin_ChibiDino_Procoptodon'"
+	},
+	{
+	"chibi": "Paraceratherio",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Paraceratherium.PrimalItemSkin_ChibiDino_Paraceratherium'"
+	},
+	{
+	"chibi": "Parasauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Parasaur.PrimalItemSkin_ChibiDino_Parasaur'"
+	},
+	{
+	"chibi": "Phiomia",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Phiomia.PrimalItemSkin_ChibiDino_Phiomia'"
+	},
+	
+	{
+	"chibi": "Pteranodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Pteranodon.PrimalItemSkin_ChibiDino_Pteranodon'"
+	},
+	{
+	"chibi": "Pulmonoscorpius",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Pulmonoscorpius.PrimalItemSkin_ChibiDino_Pulmonoscorpius'"
+	},
+	{
+	"chibi": "Party Rex",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_PartyRex.PrimalItemSkin_ChibiDino_PartyRex'"
+	},
+	{
+	"chibi": "Quetzal",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Quetzal.PrimalItemSkin_ChibiDino_Quetzal'"
+	},
+	{
+	"chibi": "Raptor",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Raptor.PrimalItemSkin_ChibiDino_Raptor'"
+	},
+	{
+	"chibi": "Rex",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Rex.PrimalItemSkin_ChibiDino_Rex'"
+	},
+	{
+	"chibi": "Rock Drake",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_RockDrake.PrimalItemSkin_ChibiDino_RockDrake'"
+	},
+	{
+	"chibi": "Rollrat",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_MoleRat.PrimalItemSkin_ChibiDino_MoleRat'"
+	},
+	{
+	"chibi": "Rock Golem",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_RockGolem.PrimalItemSkin_ChibiDino_RockGolem'"
+	},
+	{
+	"chibi": "Rhino",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_WoollyRhino.PrimalItemSkin_ChibiDino_WoollyRhino'"
+	},
+	{
+	"chibi": "Rena",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Reindeer.PrimalItemSkin_ChibiDino_Reindeer'"
+	},
+	{
+	"chibi": "Reaper",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Reaper.PrimalItemSkin_ChibiDino_Reaper'"
+	},
+	{
+	"chibi": "Skeletal Wyvern",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Wyvern_Bone.PrimalItemSkin_ChibiDino_Wyvern_Bone'"
+	},
+	{
+	"chibi": "Skeletal Carnotauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Carnotaurus_Bone.PrimalItemSkin_ChibiDino_Carnotaurus_Bone'"
+	},
+	{
+	"chibi": "Skeletal Giganotosauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Gigant_Bone.PrimalItemSkin_ChibiDino_Gigant_Bone'"
+	},
+	{
+	"chibi": "Skeletal Raptor",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Raptor_Bone.PrimalItemSkin_ChibiDino_Raptor_Bone'"
+	},
+	{
+	"chibi": "Skeletal Rex",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Rex_Bone.PrimalItemSkin_ChibiDino_Rex_Bone'"
+	},
+	{
+	"chibi": "Sabertooth",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Saber.PrimalItemSkin_ChibiDino_Saber'"
+	},
+	{
+	"chibi": "Sabertooth-X",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_SaberX.PrimalItemSkin_ChibiDino_SaberX'"
+	},
+	{
+	"chibi": "Snow Owl",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_SnowOwl.PrimalItemSkin_ChibiDino_SnowOwl'"
+	},
+	{
+	"chibi": "Skeletal Trike",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Trike_Bone.PrimalItemSkin_ChibiDino_Trike_Bone'"
+	},
+	{
+	"chibi": "Skeletal Stego",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Stego_Bone.PrimalItemSkin_ChibiDino_Stego_Bone'"
+	},
+	{
+	"chibi": "Skeletal Quetzal",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Quetzal_Bone.PrimalItemSkin_ChibiDino_Quetzal_Bone'"
+	},
+	{
+	"chibi": "Skeletal Jerboa",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Jerboa_Bone.PrimalItemSkin_ChibiDino_Jerboa_Bone'"
+	},
+	{
+	"chibi": "Skeletal Bronto",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Bronto_Bone.PrimalItemSkin_ChibiDino_Bronto_Bone'"
+	},
+	{
+	"chibi": "Seeke",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Seeker.PrimalItemSkin_ChibiDino_Seeker'"
+	},
+	{
+	"chibi": "Sarco",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Sarco.PrimalItemSkin_ChibiDino_Sarco'"
+	},
+	{
+	"chibi": "Shadowmane",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_ShadowMane.PrimalItemSkin_ChibiDino_ShadowMane'"
+	},
+	{
+	"chibi": "Shinehorn",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Shinehorn.PrimalItemSkin_ChibiDino_Shinehorn'"
+	},
+	{
+	"chibi": "Skeletal Raptor",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Raptor_Bone.PrimalItemSkin_ChibiDino_Raptor_Bone'"
+	},
+	{
+	"chibi": "Spino",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Spino.PrimalItemSkin_ChibiDino_Spino'"
+	},
+	{
+	"chibi": "Stego",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Stego.PrimalItemSkin_ChibiDino_Stego'"
+	},
+	{
+	"chibi": "Teeny Tiny Titano",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Titano.PrimalItemSkin_ChibiDino_Titano'"
+	},
+	{
+	"chibi": "Yutirano",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Yutyrannus.PrimalItemSkin_ChibiDino_Yutyrannus'"
+	},
+	{
+	"chibi": "Troodon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Troodon.PrimalItemSkin_ChibiDino_Troodon'"
+	},
+	{
+	"chibi": "Thorny Dragon",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_SpineyLizard.PrimalItemSkin_ChibiDino_SpineyLizard'"
+	},
+	{
+	"chibi": "Therizinosauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Therizino.PrimalItemSkin_ChibiDino_Therizino'"
+	},
+	{
+	"chibi": "Tapejara",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Tapejara.PrimalItemSkin_ChibiDino_Tapejara'"
+	},
+	{
+	"chibi": "Terror Bird",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_TerrorBird.PrimalItemSkin_ChibiDino_TerrorBird'"
+	},
+	{
+	"chibi": "Thylacoleo",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Thylacoleo.PrimalItemSkin_ChibiDino_Thylacoleo'"
+	},
+	{
+	"chibi": "Trike",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Trike.PrimalItemSkin_ChibiDino_Trike'"
+	},
+	{
+	"chibi": "Tropeognathus",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Tropeognathus.PrimalItemSkin_ChibiDino_Tropeognathus'"
+	},
+	{
+	"chibi": "Tusoteuthis",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Tuso.PrimalItemSkin_ChibiDino_Tuso'"
+	},
+	{
+	"chibi": "Unicornio",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Unicorn.PrimalItemSkin_ChibiDino_Unicorn'"
+	},
+	{
+	"chibi": "Voidwyrm",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_VoidWyvern.PrimalItemSkin_ChibiDino_VoidWyvern'"
+	},
+	{
+	"chibi": "Velonasauro",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Velonasaur.PrimalItemSkin_ChibiDino_Velonasaur'"
+	},
+	{
+	"chibi": "Wyvern",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Wyvern.PrimalItemSkin_ChibiDino_Wyvern'"
+	},
+	{
+	"chibi": "Zombie Wyvern",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Wyvern_Zombie.PrimalItemSkin_ChibiDino_Wyvern_Zombie'"
+    },
+	{
+	"chibi": "Coruja Bruxa",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_WitchingOwl.PrimalItemSkin_ChibiDino_WitchingOwl'"
+	},
+	{
+	"chibi": "Fenrir",
+	"bpchibi": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Fenrir.PrimalItemSkin_ChibiDino_Fenrir'"
+	}
+    ]
